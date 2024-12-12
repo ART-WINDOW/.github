@@ -1,5 +1,8 @@
-![art-ad](https://github.com/user-attachments/assets/ceeac7af-0a35-4458-acfd-0ddfe8b42cc0)
-<br/>
+<p align="center">
+  <a href="https://art-window.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/624affcc-6cd9-48b0-a28e-a8f22559f27f" alt="Art Window"/>
+  </a>
+
 <h3 align="left">Art Window is your digital companion<br/>for discovering art exhibitions across Korea, anytime and anywhere.</h1>
 <div style="font-size: 18px; line-height: 1.6;">
 <p>
