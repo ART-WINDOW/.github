@@ -1,5 +1,5 @@
 ![art-ad](https://github.com/user-attachments/assets/ceeac7af-0a35-4458-acfd-0ddfe8b42cc0)
-<br/><br/>
+<br/>
 <h3 align="left">Art Window is your digital companion<br/>for discovering art exhibitions across Korea, anytime and anywhere.</h1>
 <div style="font-size: 18px; line-height: 1.6;">
 <p>
